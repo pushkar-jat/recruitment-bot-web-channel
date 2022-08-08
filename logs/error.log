@@ -1,0 +1,12 @@
+{"level":"error","message":"get country list api failed due to error:TypeError: Cannot read property 'data' of undefined","timestamp":"2022-08-08 08:54:07.226"}
+{"level":"error","message":"get country list api failed due to error:TypeError: Cannot read property 'data' of undefined","timestamp":"2022-08-08 08:56:51.219"}
+{"level":"error","message":"\n [onTurnError] unhandled error: TypeError: Cannot read property '0' of undefined","timestamp":"2022-08-08 08:56:51.224"}
+{"level":"error","message":"get country list api failed due to error:TypeError: Cannot read property 'data' of undefined","timestamp":"2022-08-08 08:58:47.903"}
+{"level":"error","message":"\n [onTurnError] unhandled error: TypeError: Cannot read property '0' of undefined","timestamp":"2022-08-08 08:59:08.638"}
+{"level":"error","message":"get country list api failed due to error:TypeError: Cannot read property 'data' of undefined","timestamp":"2022-08-08 09:00:04.405"}
+{"level":"error","message":"\n [onTurnError] unhandled error: TypeError: Cannot read property '0' of undefined","timestamp":"2022-08-08 09:00:17.773"}
+{"level":"error","message":"get country list api failed due to error:TypeError: Cannot read property 'data' of undefined","timestamp":"2022-08-08 09:00:48.059"}
+{"level":"error","message":"\n [onTurnError] unhandled error: TypeError: Cannot read property '0' of undefined","timestamp":"2022-08-08 09:00:50.411"}
+{"level":"error","message":"get country list api failed due to error:TypeError: Cannot read property 'data' of undefined","timestamp":"2022-08-08 09:01:32.577"}
+{"level":"error","message":"\n [onTurnError] unhandled error: TypeError: Cannot read property '0' of undefined","timestamp":"2022-08-08 09:01:34.595"}
+{"level":"error","message":"\n [onTurnError] unhandled error: ReferenceError: timer is not defined","timestamp":"2022-08-08 09:13:36.205"}

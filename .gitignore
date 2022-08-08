@@ -1,0 +1,5 @@
+/.env
+/node_modules
+/package-lock.json
+/launch.json
+node_modules

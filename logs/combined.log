@@ -1,0 +1,64 @@
+{"level":"info","message":"Connected to db Successfully","timestamp":"2022-08-08 08:13:10.617"}
+{"level":"info","message":"Connected to db Successfully","timestamp":"2022-08-08 08:19:17.354"}
+{"level":"info","message":"Connected to db Successfully","timestamp":"2022-08-08 08:38:16.860"}
+{"level":"info","message":"Connected to db Successfully","timestamp":"2022-08-08 08:48:45.648"}
+{"level":"error","message":"get country list api failed due to error:TypeError: Cannot read property 'data' of undefined","timestamp":"2022-08-08 08:54:07.226"}
+{"level":"info","message":"\nrestify listening to http://[::]:3978","timestamp":"2022-08-08 08:56:38.038"}
+{"level":"info","message":"\nGet Bot Framework Emulator: https://aka.ms/botframework-emulator","timestamp":"2022-08-08 08:56:38.042"}
+{"level":"info","message":"\nTo talk to your bot, open the emulator select \"Open Bot\"","timestamp":"2022-08-08 08:56:38.043"}
+{"level":"info","message":"Connected to db Successfully","timestamp":"2022-08-08 08:56:38.768"}
+{"level":"error","message":"get country list api failed due to error:TypeError: Cannot read property 'data' of undefined","timestamp":"2022-08-08 08:56:51.219"}
+{"level":"error","message":"\n [onTurnError] unhandled error: TypeError: Cannot read property '0' of undefined","timestamp":"2022-08-08 08:56:51.224"}
+{"level":"info","message":"\nrestify listening to http://[::]:3978","timestamp":"2022-08-08 08:57:30.127"}
+{"level":"info","message":"\nGet Bot Framework Emulator: https://aka.ms/botframework-emulator","timestamp":"2022-08-08 08:57:30.135"}
+{"level":"info","message":"\nTo talk to your bot, open the emulator select \"Open Bot\"","timestamp":"2022-08-08 08:57:30.137"}
+{"level":"info","message":"Connected to db Successfully","timestamp":"2022-08-08 08:57:30.837"}
+{"level":"error","message":"get country list api failed due to error:TypeError: Cannot read property 'data' of undefined","timestamp":"2022-08-08 08:58:47.903"}
+{"level":"error","message":"\n [onTurnError] unhandled error: TypeError: Cannot read property '0' of undefined","timestamp":"2022-08-08 08:59:08.638"}
+{"level":"info","message":"\nrestify listening to http://[::]:3978","timestamp":"2022-08-08 08:59:24.348"}
+{"level":"info","message":"\nGet Bot Framework Emulator: https://aka.ms/botframework-emulator","timestamp":"2022-08-08 08:59:24.353"}
+{"level":"info","message":"\nTo talk to your bot, open the emulator select \"Open Bot\"","timestamp":"2022-08-08 08:59:24.354"}
+{"level":"info","message":"Connected to db Successfully","timestamp":"2022-08-08 08:59:25.058"}
+{"level":"error","message":"get country list api failed due to error:TypeError: Cannot read property 'data' of undefined","timestamp":"2022-08-08 09:00:04.405"}
+{"level":"error","message":"\n [onTurnError] unhandled error: TypeError: Cannot read property '0' of undefined","timestamp":"2022-08-08 09:00:17.773"}
+{"level":"error","message":"get country list api failed due to error:TypeError: Cannot read property 'data' of undefined","timestamp":"2022-08-08 09:00:48.059"}
+{"level":"error","message":"\n [onTurnError] unhandled error: TypeError: Cannot read property '0' of undefined","timestamp":"2022-08-08 09:00:50.411"}
+{"level":"error","message":"get country list api failed due to error:TypeError: Cannot read property 'data' of undefined","timestamp":"2022-08-08 09:01:32.577"}
+{"level":"error","message":"\n [onTurnError] unhandled error: TypeError: Cannot read property '0' of undefined","timestamp":"2022-08-08 09:01:34.595"}
+{"level":"info","message":"\nrestify listening to http://[::]:3978","timestamp":"2022-08-08 09:02:02.431"}
+{"level":"info","message":"\nGet Bot Framework Emulator: https://aka.ms/botframework-emulator","timestamp":"2022-08-08 09:02:02.437"}
+{"level":"info","message":"\nTo talk to your bot, open the emulator select \"Open Bot\"","timestamp":"2022-08-08 09:02:02.439"}
+{"level":"info","message":"Connected to db Successfully","timestamp":"2022-08-08 09:02:03.245"}
+{"level":"info","message":"\nrestify listening to http://[::]:3978","timestamp":"2022-08-08 09:08:55.319"}
+{"level":"info","message":"\nGet Bot Framework Emulator: https://aka.ms/botframework-emulator","timestamp":"2022-08-08 09:08:55.325"}
+{"level":"info","message":"\nTo talk to your bot, open the emulator select \"Open Bot\"","timestamp":"2022-08-08 09:08:55.327"}
+{"level":"info","message":"Connected to db Successfully","timestamp":"2022-08-08 09:08:56.053"}
+{"level":"info","message":"\nrestify listening to http://[::]:3978","timestamp":"2022-08-08 09:09:11.114"}
+{"level":"info","message":"\nGet Bot Framework Emulator: https://aka.ms/botframework-emulator","timestamp":"2022-08-08 09:09:11.121"}
+{"level":"info","message":"\nTo talk to your bot, open the emulator select \"Open Bot\"","timestamp":"2022-08-08 09:09:11.122"}
+{"level":"info","message":"Connected to db Successfully","timestamp":"2022-08-08 09:09:11.930"}
+{"level":"info","message":"\nrestify listening to http://[::]:3978","timestamp":"2022-08-08 09:11:41.093"}
+{"level":"info","message":"\nGet Bot Framework Emulator: https://aka.ms/botframework-emulator","timestamp":"2022-08-08 09:11:41.099"}
+{"level":"info","message":"\nTo talk to your bot, open the emulator select \"Open Bot\"","timestamp":"2022-08-08 09:11:41.100"}
+{"level":"info","message":"Connected to db Successfully","timestamp":"2022-08-08 09:11:41.885"}
+{"level":"error","message":"\n [onTurnError] unhandled error: ReferenceError: timer is not defined","timestamp":"2022-08-08 09:13:36.205"}
+{"level":"info","message":"\nrestify listening to http://[::]:3978","timestamp":"2022-08-08 09:14:00.532"}
+{"level":"info","message":"\nGet Bot Framework Emulator: https://aka.ms/botframework-emulator","timestamp":"2022-08-08 09:14:00.537"}
+{"level":"info","message":"\nTo talk to your bot, open the emulator select \"Open Bot\"","timestamp":"2022-08-08 09:14:00.538"}
+{"level":"info","message":"Connected to db Successfully","timestamp":"2022-08-08 09:14:01.362"}
+{"level":"info","message":"\nrestify listening to http://[::]:3978","timestamp":"2022-08-08 09:18:37.183"}
+{"level":"info","message":"\nGet Bot Framework Emulator: https://aka.ms/botframework-emulator","timestamp":"2022-08-08 09:18:37.189"}
+{"level":"info","message":"\nTo talk to your bot, open the emulator select \"Open Bot\"","timestamp":"2022-08-08 09:18:37.190"}
+{"level":"info","message":"Connected to db Successfully","timestamp":"2022-08-08 09:18:37.921"}
+{"level":"info","message":"\nrestify listening to http://[::]:3978","timestamp":"2022-08-08 09:23:05.685"}
+{"level":"info","message":"\nGet Bot Framework Emulator: https://aka.ms/botframework-emulator","timestamp":"2022-08-08 09:23:05.690"}
+{"level":"info","message":"\nTo talk to your bot, open the emulator select \"Open Bot\"","timestamp":"2022-08-08 09:23:05.690"}
+{"level":"info","message":"Connected to db Successfully","timestamp":"2022-08-08 09:23:06.549"}
+{"level":"info","message":"\nrestify listening to http://[::]:3978","timestamp":"2022-08-08 10:40:41.058"}
+{"level":"info","message":"\nGet Bot Framework Emulator: https://aka.ms/botframework-emulator","timestamp":"2022-08-08 10:40:41.067"}
+{"level":"info","message":"\nTo talk to your bot, open the emulator select \"Open Bot\"","timestamp":"2022-08-08 10:40:41.068"}
+{"level":"info","message":"Connected to db Successfully","timestamp":"2022-08-08 10:40:41.961"}
+{"level":"info","message":"\nrestify listening to http://[::]:3978","timestamp":"2022-08-08 21:17:17.964"}
+{"level":"info","message":"\nGet Bot Framework Emulator: https://aka.ms/botframework-emulator","timestamp":"2022-08-08 21:17:17.971"}
+{"level":"info","message":"\nTo talk to your bot, open the emulator select \"Open Bot\"","timestamp":"2022-08-08 21:17:17.972"}
+{"level":"info","message":"Connected to db Successfully","timestamp":"2022-08-08 21:17:18.728"}
