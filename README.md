@@ -47,9 +47,9 @@ npm install
 ## Usage: <i id="usage"></i> 
 <b>1. Variable in `.env` file or use given defaults</b>
 ```
-MICROSOFT_APP_ID=7aeaf7fb-fc2a-4e53-83bf-b2ee7f1ff257
-MICROSOFT_APP_PASSWORD=6yq8Q~rOcDbTEQtCX1Yd7qN1MclzoeEd8SHRWc7g 
-MONGOOSE_STRING=mongodb+srv://user:user@cluster0.fqqttdq.mongodb.net/?retryWrites=true&w=majority
+MICROSOFT_APP_ID=7aeaf7fb-fc2a-4e************************
+MICROSOFT_APP_PASSWORD=6yq8************8888888888888********
+MONGOOSE_STRING=mon8888888888888888888888888***************b.net/?retryWrites=true&w=majority
 ```
 
 <b>2. Start server with:</b>
